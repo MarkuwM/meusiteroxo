@@ -3,6 +3,7 @@ html {
 }
 
 .text {
+    font-family: Verdana;
     text-align: center;
     color: white;
     background-color: blue;
@@ -36,11 +37,20 @@ html {
 }
 
 #p1 {
+    font-family: Verdana;
     text-align: center;
     color: blue;
-    background-color: red;
+    background-color: white;
+    border: 3px solid blue;
     font-size: 20px;
     text-indent: 5%;
+}
+
+.tit1 {
+    font-family: Verdana;
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
 }
 
 h1 {
